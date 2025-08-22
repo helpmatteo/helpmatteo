@@ -1,12 +1,3 @@
-<!-- Hero (theme-aware) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-    <img alt="Matteo He — minimalist banner" src="./assets/banner-light.png" width="840">
-  </picture>
-</p>
-
 <div align="center">
 
 # Matteo He  
@@ -14,23 +5,26 @@
 
 _I build reliable ML-powered systems—evaluation, infrastructure, and data tooling. Clarity, reproducibility, and speed for teams._
 
-[Website](https://helpmatteo.github.io) · [LinkedIn](https://www.linkedin.com/in/matteohe) · [Email](mailto:matteohe.tech@gmail.com)
-
 </div>
+
+<p align="center">
+  <a href="https://helpmatteo.github.io"><kbd>Website</kbd></a> &nbsp;
+  <a href="https://www.linkedin.com/in/matteohe"><kbd>LinkedIn</kbd></a> &nbsp;
+  <a href="mailto:matteohe.tech@gmail.com"><kbd>Email</kbd></a>
+</p>
+
+<p align="center">
+  <sub><b>BSc First-Class</b></sub> &nbsp;·&nbsp;
+  <sub><b>3×</b> analysis throughput</sub> &nbsp;·&nbsp;
+  <sub>F1 <b>0.48 → 0.86</b></sub>
+</p>
 
 ---
 
-<p align="center">
-  <kbd>First-Class BSc CS & Mathematics</kbd>
-  &nbsp; <kbd>3× analysis throughput</kbd>
-  &nbsp; <kbd>F1 ↑ 0.48 → 0.86</kbd>
-  &nbsp; <kbd>GRE 340/340</kbd>
-</p>
-
 ## Summary
 - **SWE/ML focus** with shipped analysis platform and tooling used by 20+ scientists.  
-- **Throughput & reliability:** caching + parallelism → **3×** more concurrent comparisons.  
-- **Research-aware engineer:** eval tooling, algorithm selection, audio ML, interpretability.
+- **Throughput & reliability:** caching + parallelism to support **3×** more concurrent comparisons.  
+- **Research-aware engineer:** eval tooling, algorithm selection, audio ML, and interpretability.  
 
 ## Experience
 **Amazon — Alexa AI (NLU), SDE Intern**  
@@ -39,21 +33,23 @@ _I build reliable ML-powered systems—evaluation, infrastructure, and data tool
 - Co-designed evaluation metrics/frameworks for LLM API-calling behavior at scale.
 
 ## Selected Projects
-**Analysis Platform for ML Scientists** — experiment tracking, cached comparisons, batched data access.  
-**Energy-Aware Algorithm Selection** — long-horizon perf/energy traces; lower-energy solver picks.  
-**Dolphin Acoustics (Detection & Classification)** — signal-processing + ML/CV; F1 **0.48 → 0.86**.
+| Project | What it is | Impact |
+|---|---|---|
+| **Analysis Platform for ML Scientists** | Lightweight services for experiment tracking, cached comparisons, batched data access | Enabled **3×** concurrent comparisons |
+| **Energy-Aware Algorithm Selection** | Perf/energy traces for solvers; features for low-energy picks | Lower energy at similar quality |
+| **Dolphin Acoustics** | Signal processing + ML/CV pipeline | F1 **0.48 → 0.86** |
 
 <details>
-<summary><b>Research Focus — LLM Interpretability (click to expand)</b></summary>
+<summary><b>Research — LLM Interpretability</b> <sup>(click)</sup></summary>
 
-**Automating Interpretability of GPT-2 Attention Heads**  
-Compared sequence-splitting strategies; reduced wrong-token matches and improved Jensen–Shannon/Bhattacharyya/cosine metrics on specific layers.  
+**Automating GPT-2 Attention Head Explanations**  
+Compared token-sequence splitting strategies; reduced wrong-token matches and improved Jensen–Shannon distance, Bhattacharyya coefficient, and cosine distance on specific layers.  
 <i>Code & write-up to be linked when public.</i>
 </details>
 
 ## Education
 **University of St Andrews** — BSc (Hons) Computer Science & Mathematics, First Class  
-Dean’s List (all years); Top Student Medal (direct-entry stream)
+- Dean’s List (all years); Top Student Medal (direct-entry stream)
 
 ## Leadership & Community
 Student Rep (Computer Science) · Mentoring Champion · Workshop Director (Competitive Programming) · GDSC Lead/Core
@@ -63,4 +59,6 @@ Student Rep (Computer Science) · Mentoring Champion · Workshop Director (Compe
 
 ---
 
-<p align="center"><sub>Open to SWE, ML/AI engineering, and research-adjacent roles.</sub></p>
+<div align="center">
+  <sub>Open to SWE, ML/AI engineering, and research-adjacent roles.</sub>
+</div>
