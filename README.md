@@ -1,10 +1,10 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helpmatteo/helpmatteo/main/assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helpmatteo/helpmatteo/main/assets/banner.svg">
-    <img alt="Matteo He — Software Engineer · LLM Interpretability" src="https://raw.githubusercontent.com/helpmatteo/helpmatteo/main/assets/banner.svg" width="980">
-  </picture>
+  <a href="https://helpmatteo.github.io">
+    <img src="./assets/banner.svg#gh-light-mode-only" width="980" alt="Matteo He — Software Engineer · LLM Interpretability">
+    <img src="./assets/banner-dark.svg#gh-dark-mode-only" width="980" alt="Matteo He — Software Engineer · LLM Interpretability">
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://helpmatteo.github.io">Website</a> ·
