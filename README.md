@@ -1,8 +1,9 @@
 <div align="center">
 
-# Matteo He — Software Engineer (ML/Systems)
+# Matteo He  
+### Software Engineer (ML/Systems)
 
-_I build reliable ML-powered systems: evaluation, infra, and data tooling. I care about clarity, reproducibility, and making teams faster._
+_I build reliable ML-powered systems—evaluation, infrastructure, and data tooling. Clarity, reproducibility, and speed for teams._
 
 [Website](https://helpmatteo.github.io) · [LinkedIn](https://www.linkedin.com/in/matteohe) · [Email](mailto:matteohe.tech@gmail.com)
 
@@ -10,31 +11,34 @@ _I build reliable ML-powered systems: evaluation, infra, and data tooling. I car
 
 ---
 
+<p align="center">
+<kbd>First-Class BSc CS & Mathematics</kbd> &nbsp; <kbd>3× analysis throughput</kbd> &nbsp; <kbd>F1 ↑ 0.48 → 0.86</kbd> &nbsp; <kbd>GRE 340/340</kbd>
+</p>
+
 ## Summary
-- **SWE/ML focus** with shipped tooling and analysis platforms used by 20+ scientists
-- **Throughput & reliability:** scaled comparisons (**3×** concurrent) via caching/parallelism; reproducible pipelines
-- **Research-aware engineer:** shipped eval tooling; projects across algorithm selection, audio ML, and interpretability
-- **BSc (Hons) CS & Mathematics, First Class** — University of St Andrews
+- **SWE/ML focus** with shipped analysis platform and tooling used by 20+ scientists.  
+- **Throughput & reliability:** caching + parallelism to support **3×** more concurrent comparisons.  
+- **Research-aware engineer:** eval tooling, algorithm selection, audio ML, and interpretability.  
 
 ---
 
 ## Experience
 **Amazon — Alexa AI (NLU), SDE Intern**  
-- Built ML support tools + a central analysis platform used by 20+ scientists  
-- Increased analysis throughput (**3×** concurrent comparisons) with caching/parallelization  
-- Co-designed evaluation metrics/frameworks for LLM API-calling behavior at scale
+- Built ML support tools and a central analysis platform used by 20+ scientists.  
+- Increased analysis throughput (**3×** concurrent comparisons) via caching/parallelization.  
+- Co-designed evaluation metrics/frameworks for LLM API-calling behavior at scale.
 
 ---
 
-## Selected Projects (SWE & ML)
+## Selected Projects
 **Analysis Platform for ML Scientists** — lightweight services for experiment tracking, cached comparisons, and batched data access.  
-**Energy-Aware Algorithm Selection** — long-horizon perf/energy traces; features for ML models to pick lower-energy solvers.  
+**Energy-Aware Algorithm Selection** — long-horizon perf/energy traces; features for models that pick lower-energy solvers.  
 **Dolphin Acoustics (Detection & Classification)** — signal-processing + ML/CV; F1 **0.48 → 0.86** vs prior approach.
 
 <details>
 <summary><b>Research Focus — LLM Interpretability (click to expand)</b></summary>
 
-**Automating Interpretability of Attention Heads (GPT-2)**  
+**Automating Interpretability of GPT-2 Attention Heads**  
 Compared token-sequence splitting strategies; reduced wrong-token matches and improved Jensen–Shannon distance, Bhattacharyya coefficient, and cosine distance on specific layers.  
 <i>Code & write-up to be linked when public.</i>
 </details>
@@ -42,7 +46,7 @@ Compared token-sequence splitting strategies; reduced wrong-token matches and im
 ---
 
 ## Education
-**University of St Andrews** — BSc (Hons) CS & Mathematics, First Class  
+**University of St Andrews** — BSc (Hons) Computer Science & Mathematics, First Class  
 - Dean’s List (all years); Top Student Medal (direct-entry stream)
 
 ---
