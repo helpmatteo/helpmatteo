@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Matteo He — Software Engineer · LLM Interpretability" width="960">
-</p>
+[![Matteo He — banner (light)](assets/banner.svg#gh-light-mode-only)](https://helpmatteo.github.io)
+[![Matteo He — banner (dark)](assets/banner-dark.svg#gh-dark-mode-only)](https://helpmatteo.github.io)
 
 <p align="center">
   <a href="https://helpmatteo.github.io">Website</a> ·
