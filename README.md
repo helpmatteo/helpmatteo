@@ -1,5 +1,10 @@
-[![Matteo He — banner (light)](assets/banner.svg#gh-light-mode-only)](https://helpmatteo.github.io)
-[![Matteo He — banner (dark)](assets/banner-dark.svg#gh-dark-mode-only)](https://helpmatteo.github.io)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helpmatteo/helpmatteo/main/assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helpmatteo/helpmatteo/main/assets/banner.svg">
+    <img alt="Matteo He — Software Engineer · LLM Interpretability" src="https://raw.githubusercontent.com/helpmatteo/helpmatteo/main/assets/banner.svg" width="980">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://helpmatteo.github.io">Website</a> ·
